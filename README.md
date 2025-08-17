@@ -8,5 +8,5 @@ means for the gcc implementation.
 The file [`dependency-order.txt`](dependency-order.txt) contains a
 list of components in dependency order from least dependent to most
 dependent. The list is currently produced automatically based on
-the header files in [beman.execution](https://github.com/beman.execution)
+the header files in [beman.execution](https://github.com/bemanproject.execution)
 and contains some artifacts.
